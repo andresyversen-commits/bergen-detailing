@@ -1,0 +1,85 @@
+{
+  "companyName": "Bergen Detailing",
+  "industry": "Bilpleie",
+  "websiteUrl": "bergendetailing.no",
+  "matchTrigger": "Manuelt lead",
+  "snippet": null,
+  "audit": {
+    "deliverabilityScore": 42,
+    "domainAgeDays": 354
+  },
+  "existingSite": {
+    "url": "bergendetailing.no",
+    "logoUrl": "https://framerusercontent.com/sites/icons/default-touch-icon.v3.png",
+    "primaryColor": null,
+    "fetchOk": true
+  },
+  "aiBlueprint": {
+    "title": "Bergen Detailing - Premium bilpleie i Bergen",
+    "tone": "premium",
+    "ctaPrimary": "Bestill time nå",
+    "sections": [
+      {
+        "id": "hero",
+        "name": "Hero",
+        "description": "Høykvalitetsbilde av nypolert bil med overlappende tekst 'Profesjonell bilpleie i Bergen'. CTA for timebestilling."
+      },
+      {
+        "id": "tjenester",
+        "name": "Tjenesteoversikt",
+        "description": "Kortfattet presentasjon av hovedtjenester: Polering, Lakkforsegling, Interiørrens, Keramisk coating med ikoner og korte beskrivelser."
+      },
+      {
+        "id": "prosess",
+        "name": "Vår prosess",
+        "description": "Steg-for-steg visualisering av detailingprosessen fra konsultasjon til ferdig resultat."
+      },
+      {
+        "id": "pakker",
+        "name": "Behandlingspakker",
+        "description": "Prisede pakker fra basis til premium med inkluderte tjenester og estimert tidsbruk."
+      },
+      {
+        "id": "resultater",
+        "name": "Før/etter resultater",
+        "description": "Bildekarusell med før- og etterbilder av behandlede kjøretøy."
+      },
+      {
+        "id": "testimonials",
+        "name": "Kundeomtaler",
+        "description": "Sitater fra fornøyde kunder med navn og bilmodell."
+      },
+      {
+        "id": "om-oss",
+        "name": "Om Bergen Detailing",
+        "description": "Kort om bedriftens historie, ekspertise og dedikasjon til kvalitet."
+      },
+      {
+        "id": "faq",
+        "name": "Vanlige spørsmål",
+        "description": "Svar på vanlige spørsmål om bilpleie, holdbarhet og prosess."
+      },
+      {
+        "id": "kontakt",
+        "name": "Kontakt og booking",
+        "description": "Kontaktskjema, telefonnummer, adresse og åpningstider med kart."
+      }
+    ],
+    "recommendations": [
+      "Implementer online bookingsystem med tidsbekreftelse",
+      "Legg til en seksjon for produkter som brukes/selges",
+      "Inkluder en blogseksjon med bilpleiertips for å øke SEO",
+      "Legg til en bilgalleri-funksjon for å vise frem spesielle prosjekter",
+      "Implementer chat-funksjon for rask kundeservice"
+    ],
+    "parseNote": null,
+    "rawFallback": null
+  },
+  "uspLines": [
+    "Struktur og innhold tilpasses bransjen «Bilpleie».",
+    "Forslaget tar utgangspunkt i eksisterende nettside — logo og farger er forsøkt hentet automatisk.",
+    "Ekstra fokus på lead-signalet «Manuelt lead» fra kilden."
+  ],
+  "generatedAt": "2026-04-17T10:32:09.802Z",
+  "layoutKey": "detailing-dark"
+}
